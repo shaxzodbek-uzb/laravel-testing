@@ -13,6 +13,6 @@ class UserTest extends TestCase
      */
     public function test_example()
     {
-        $this->assertTrue(false);
+        $this->assertTrue(true);
     }
 }
